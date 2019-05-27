@@ -1,0 +1,8 @@
+get;camera_info0.jpg
+get;camera_info1.jpg
+pina;camera_info2.jpg
+;camera_info3.jpg
+rlc;camera_info4.jpg
+diff;camera_info5.jpg
+;camera_info6.jpg
+rc;camera_info7.jpg
